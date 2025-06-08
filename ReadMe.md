@@ -1,4 +1,4 @@
-﻿# Presistance library
+﻿# Presistance Methods by Marius aka Nitr0-G
 
 ## 1. Startup folder
 Это очень старый практикуемый метод. 
